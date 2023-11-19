@@ -1,0 +1,379 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/feSiISwgEpVzR1v3zv2n2AU4ANJ.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 609681,
+      "original_language": "en",
+      "original_title": "The Marvels",
+      "overview": "Carol Danvers, aka Captain Marvel, has reclaimed her identity from the tyrannical Kree and taken revenge on the Supreme Intelligence. But unintended consequences see Carol shouldering the burden of a destabilized universe. When her duties send her to an anomalous wormhole linked to a Kree revolutionary, her powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol’s estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe.",
+      "popularity": 1222.618,
+      "poster_path": "/tUtgLOESpCx7ue4BaeCTqp3vn1b.jpg",
+      "release_date": "2023-11-08",
+      "title": "The Marvels",
+      "video": false,
+      "vote_average": 6.4,
+      "vote_count": 228
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bQl46uhGPTu9jnIRE9Ip2xOMc9M.jpg",
+      "genre_ids": [
+        10751,
+        12,
+        16,
+        14,
+        878
+      ],
+      "id": 382190,
+      "original_language": "ja",
+      "original_title": "ポケモン・ザ・ムービーXY&Z ボルケニオンと機巧のマギアナ",
+      "overview": "Ash meets the Mythical Pokémon Volcanion when it crashes down from the sky, creating a cloud of dust—and a mysterious force binds the two of them together! Volcanion despises humans and tries to get away, but it’s forced to drag Ash along as it continues its rescue mission. They arrive in a city of cogs and gears, where a corrupt official has stolen the ultimate invention: the Artificial Pokémon Magearna, created 500 years ago. He plans to use its mysterious power to take control of this mechanical kingdom! Can Ash and Volcanion work together to rescue Magearna? One of the greatest battles in Pokémon history is about to unfold!",
+      "popularity": 26.903,
+      "poster_path": "/j9TIzeMxNknVrBvgxzLqhIhxml4.jpg",
+      "release_date": "2016-07-16",
+      "title": "Pokémon the Movie: Volcanion and the Mechanical Marvel",
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 163
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hGg4e8ZuLOYT46ERS5LY2Qnb4q5.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 379040,
+      "original_language": "en",
+      "original_title": "Marvel's Captain America: 75 Heroic Years",
+      "overview": "A full-length documentary that follows the history of Captain America from 1941 to present and explores how “Cap” has been a reflection of the changing times and the world he has existed in throughout the years. Fans will hear from various Marvel luminaries including Stan Lee, Joe Quesada, Clark Gregg, Ming-Na Wen, Chloe Bennet, Jeph Loeb, Louis D’Esposito, Chris Evans and Hayley Attwell, as well as family members of Cap’s creators.",
+      "popularity": 6.224,
+      "poster_path": "/lr8ZujMvC36pHXRiamsrEex5Nip.jpg",
+      "release_date": "2016-01-19",
+      "title": "Marvel's Captain America: 75 Heroic Years",
+      "video": false,
+      "vote_average": 6.703,
+      "vote_count": 32
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/69GY219MYBurtf8joA2okEa3x8I.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 787923,
+      "original_language": "en",
+      "original_title": "Marvel's Behind the Mask",
+      "overview": "A documentary special that explores the power of identity behind the iconic superheroes we know and love today. These legendary Marvel creations and stories have not only reflected the world outside our window – they have become a reflection of our own identities and who we truly are.",
+      "popularity": 23.369,
+      "poster_path": "/p71YgDQk5sFHTqF3FBygLPmZEX5.jpg",
+      "release_date": "2021-02-12",
+      "title": "Marvel's Behind the Mask",
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 43
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        16
+      ],
+      "id": 838603,
+      "original_language": "en",
+      "original_title": "Démon et Merveilles",
+      "overview": "This film depicts a world where space is geometric, noise is absent, and nothing happens until a small white cube comes bumping along, stirring up movement where before there was none. Chased by a wicked demon, the cube symbolizes the inner struggle that goes on inside each one of us: the confrontation, or evasion, of one's private demons.",
+      "popularity": 0.6,
+      "poster_path": "/p4YlvpnY6OcANwe7dh7lwE7j3Lh.jpg",
+      "release_date": "1977-08-28",
+      "title": "Demon and Marvels",
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+
+      ],
+      "id": 432478,
+      "original_language": "fr",
+      "original_title": "Visione e meraviglia della religione cristiana",
+      "overview": "All the characters are in hell, but they act as though the are in a sitcom, with canned laughter. It's based on Arcana Celestia by Swedenborg, a Swedish esoteric theologian from the 18th Century who started seeing ghosts, angels and demons around him. Instead of seeing a physician about it, he accepted the fact and began studying and interviewing his own hallucinations, like an anthropologist. He was convinced that people in hell are happy, because you find what you want there.",
+      "popularity": 1.4,
+      "poster_path": "/6I7MAhNCT80YNQuI8T2n3O02Ymn.jpg",
+      "release_date": "1992-01-01",
+      "title": "Visions and Marvels of the Christian Religion",
+      "video": false,
+      "vote_average": 5.8,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sZGmDdcpilYr1zQKMrNczG86HxX.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 68919,
+      "original_language": "en",
+      "original_title": "Stan Lee's Mutants, Monsters & Marvels",
+      "overview": "Filmmaker and comic writer Kevin Smith interviews comic book legend Stan Lee about his life and work in comics across the decades.",
+      "popularity": 2.769,
+      "poster_path": "/6rMBWh7iZxmWmLvXt5dW8farQJx.jpg",
+      "release_date": "2002-05-07",
+      "title": "Stan Lee's Mutants, Monsters & Marvels",
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 21
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3tFuJZI6B5C9hQniPqkVZaOmTbb.jpg",
+      "genre_ids": [
+        99,
+        14
+      ],
+      "id": 662151,
+      "original_language": "en",
+      "original_title": "Celebrating Marvel's Stan Lee",
+      "overview": "Filmed in part in front of a live audience at The New Amsterdam Theater in New York City, this Stan Lee tribute takes viewers on an action-packed journey throughout the life of Lee and across the Marvel Universe, sharing never-before-seen interviews and archive footage with Lee himself from deep within the Marvel and ABC News archives.",
+      "popularity": 5.862,
+      "poster_path": "/8qlFNCxQQOLfnqwRcHY6WMkb7tF.jpg",
+      "release_date": "2019-12-20",
+      "title": "Celebrating Marvel's Stan Lee",
+      "video": false,
+      "vote_average": 7.333,
+      "vote_count": 15
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 413589,
+      "original_language": "en",
+      "original_title": "Modern Marvels: American Steel: Built to Last",
+      "overview": "An exploration of the past and future of the steel industry in America.",
+      "popularity": 1.4,
+      "poster_path": null,
+      "release_date": "",
+      "title": "Modern Marvels: American Steel: Built to Last",
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4Q7dw9Ok8xjj7iZB4vL2E1aqIw0.jpg",
+      "genre_ids": [
+        16,
+        28,
+        12,
+        878
+      ],
+      "id": 635687,
+      "original_language": "ja",
+      "original_title": "劇場版新幹線変形ロボシンカリオン 未来からきた神速のALFA-X",
+      "overview": "The new enemies, Nahane and Ohanefu, along with the mysterious new Giant Monstrous Beings appear from space to take over the Earth! Holding the key to these events is Shinkalion ALFA-X, which was secretly developed by the Ultra Evolution Institute...!? For Hayato and Team Shinkalion, who had been living in peace, the battle begins again.",
+      "popularity": 6.504,
+      "poster_path": "/tfWOshCwOcPCTos6UrFUM1Sp7Lk.jpg",
+      "release_date": "2019-12-01",
+      "title": "Shinkansen Henkei Robo Shinkalion The Movie: The Marvelous Fast ALFA-X That Comes From the Future",
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 5
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/GXOUdcy9ln4RclHDvYD8Bz9YKu.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 861183,
+      "original_language": "en",
+      "original_title": "Alien Artifacts: Pyramids, Monoliths and Marvels",
+      "overview": "",
+      "popularity": 3.023,
+      "poster_path": "/fRjRof41KxnxOIdkFqxrJMsVHa0.jpg",
+      "release_date": "2021-07-09",
+      "title": "Alien Artifacts: Pyramids, Monoliths and Marvels",
+      "video": false,
+      "vote_average": 8.0,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+
+      ],
+      "id": 1079510,
+      "original_language": "en",
+      "original_title": "Marvels of Motion: A",
+      "overview": "Slow-motion, reverse-motion, and trick photography adds extra amusement to scenes of galloping horses, leaping dogs, and various rodeo acts.",
+      "popularity": 0.841,
+      "poster_path": null,
+      "release_date": "1930-12-31",
+      "title": "Marvels of Motion: A",
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+
+      ],
+      "id": 1159165,
+      "original_language": "en",
+      "original_title": "新孖宝妙探",
+      "overview": "Hong Kong movie",
+      "popularity": 0.679,
+      "poster_path": null,
+      "release_date": "1992-01-01",
+      "title": "The New Marvelous Double",
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 1127316,
+      "original_language": "en",
+      "original_title": "Waterfalls Marvels",
+      "overview": "Australia is the driest inhabited continent but the large number of escarpments around its coastline house thousands of waterfalls, the most outstanding shown in this video, including the tallest, the widest, the longest, and the prettiest.",
+      "popularity": 1.4,
+      "poster_path": "/9usSJKraGTLUZqrcwPDdhfr3zCo.jpg",
+      "release_date": "2023-01-01",
+      "title": "Waterfalls Marvels",
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/94RV5NKpcnE0ibr0m6pFkFOuaj8.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 234157,
+      "original_language": "en",
+      "original_title": "Mechanical Marvels: Clockwork Dreams",
+      "overview": "Documentary presented by Professor Simon Schaffer which charts the amazing and untold story of automata - extraordinary clockwork machines designed hundreds of years ago to mimic and recreate life.  The film brings the past to life in vivid detail as we see how and why these masterpieces were built. Travelling around Europe, Simon uncovers the history of these machines and shows us some of the most spectacular examples, from an entire working automaton city to a small boy who can be programmed to write and even a device that can play chess. All the machines Simon visits show a level of technical sophistication and ambition that still amazes today.",
+      "popularity": 1.767,
+      "poster_path": "/dHDCmw9kzjzXzDbpiImrW7k7xHa.jpg",
+      "release_date": "2013-06-03",
+      "title": "Mechanical Marvels: Clockwork Dreams",
+      "video": false,
+      "vote_average": 7.0,
+      "vote_count": 5
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        14,
+        35
+      ],
+      "id": 678041,
+      "original_language": "es",
+      "original_title": "Aladino y la lámpara maravillosa",
+      "overview": "Mexican feature film",
+      "popularity": 1.229,
+      "poster_path": "/2054TuxkVM255U8nBWCbNzsnYk0.jpg",
+      "release_date": "1958-02-22",
+      "title": "Aladdin and the Marvelous Lamp",
+      "video": false,
+      "vote_average": 5.0,
+      "vote_count": 3
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        14
+      ],
+      "id": 108297,
+      "original_language": "fr",
+      "original_title": "La guirlande merveilleuse",
+      "overview": "A magician performs tricks with a marvelous wreath.",
+      "popularity": 1.581,
+      "poster_path": "/chawaPCL3lQAMpuGTove13282L8.jpg",
+      "release_date": "1903-06-12",
+      "title": "The Marvellous Wreath",
+      "video": false,
+      "vote_average": 4.808,
+      "vote_count": 13
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18,
+        35
+      ],
+      "id": 790548,
+      "original_language": "en",
+      "original_title": "We're the Marvels",
+      "overview": "\"We're the Marvels\" follows a young woman preparing a Thanksgiving dinner for a group of friends as a practice run before making actual Thanksgiving dinner for her family. As we see the prep, the dinner, and the aftermath, out of order, we start to see that she and her friends similarly struggle with feelings of over-reliance on others - a feeling that’s just waiting to burst.",
+      "popularity": 3.303,
+      "poster_path": "/hZ3EoKjm9HyrcB7xpmFhl9RlUrG.jpg",
+      "release_date": "2021-01-14",
+      "title": "We're the Marvels",
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+
+      ],
+      "id": 1058280,
+      "original_language": "en",
+      "original_title": "Marvel's Pot-lid man",
+      "overview": "A man with a pit lid on his head",
+      "popularity": 0.6,
+      "poster_path": null,
+      "release_date": "",
+      "title": "Marvel's Pot-lid man",
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+
+      ],
+      "id": 1079150,
+      "original_language": "en",
+      "original_title": "Marvels of Science: Climate Change",
+      "overview": "Do you think that the COVID-19 pandemic and nuclear war are the only threat to humanity? An engaging film entitled “Marvels of Science: Climate Change” welcomes you again to the world of Science. This explanatory video pursues to educate and entertain its viewers at the same time. Hoping that all ages can understand today's biggest problem and how we can all be a hero to our world, this aims to promote awareness and responsibility to take action. The film encourages people that we don’t have to do something big; simple changes and actions have a significant impact. With Science, imagination, and collaborative effort, positive change is possible!",
+      "popularity": 0.6,
+      "poster_path": "/wvZ6AQ6GvUiSNXHJB06EqtGwEyT.jpg",
+      "release_date": "2023-01-21",
+      "title": "Marvels of Science: Climate Change",
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    }
+  ],
+  "total_pages": 4,
+  "total_results": 71
+}

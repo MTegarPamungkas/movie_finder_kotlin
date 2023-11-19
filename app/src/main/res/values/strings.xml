@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MovieFinder</string>
+    <string name="movie">Movie</string>
+    <string name="favorite">Favorite</string>
+    <string name="about">About</string>
+    <string name="detail">Detail Movie</string>
+    <string name="search_movie">Search Movie</string>
+    <string name="back">Back</string>
+    <string name="minus">-</string>
+    <string name="child">👦Child</string>
+    <string name="_18">18+</string>
+    <string name="year">🗓️%1$s</string>
+    <string name="minutes">⌚%1$s min</string>
+    <string name="star">⭐%1$s</string>
+    <string name="empty_data">Empty Data</string>
+    <string name="nama">Nama</string>
+    <string name="email">Email</string>
+    <string name="my_name">Muhammad Tegar Pamungkas</string>
+    <string name="my_email">mtegarpamungkas111@gmail.com</string>
+    <string name="iconfavorite">IconFavorite</string>
+</resources>
